@@ -2,7 +2,7 @@
 
 一个现代化的服务器资产管理网页应用，支持多语言、自动费用计算和响应式设计。
 
-[English](README.md)  [简体中文（当前）](README_CN.md)  
+[English](README.md) - [简体中文（当前）](README_CN.md)  
 
 ## 功能特性
 
