@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>服务器资产明细</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/png" href="https://img.jingsublog.com/i/2025/12/04/z60l5b.svg
+">
+</head>
+<body>
+  <div class="container">
+    <!-- 语言切换器 -->
+    <div class="language-switcher">
+      <button class="lang-btn active" data-lang="zh">中文</button>
+      <button class="lang-btn" data-lang="en">English</button>
+      <button class="lang-btn" data-lang="ja">日本語</button>
+    </div>
+
+    <!-- 汇总信息卡片 -->
+    <div class="summary-card">
+      <div class="summary-title" data-i18n="cost_summary">服务器费用汇总</div>
+      <div class="summary-content">
+        <div class="summary-item">
+          <div class="summary-value"></div>
+          <div class="summary-label" data-i18n="yearly_cost">年供金额</div>
+        </div>
+        <div class="summary-item">
+          <div class="summary-value"></div>
+          <div class="summary-label" data-i18n="daily_avg_cost">日供平均金额</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 服务器卡片容器 -->
+    <div id="serverList"></div>
+  </div>
+
+  <!-- 引入JavaScript文件 -->
+  <script src="providers.js"></script>
+  <script src="servers.js"></script>
+  <script src="i18n.js"></script>
+  <script src="calculation.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
