@@ -27,5 +27,18 @@ A modern web application for managing server assets with multi-language support,
 - Japanese
 - More languages ​​are being updated (or [contribute a new language](README.md) )
 
-### Deployment Guide
+## 💻 File Structure
+ServersList/
+├── index.html              # Main entry point
+├── style.css               # Global styles
+├── providers.js            # Cloud provider configs (icons/links)
+├── servers.js              # Server data & status definitions
+├── i18n.js                 # Multi-language setup
+├── calculation.js          # Cost calculation logic
+└── main.js                 # Core rendering & initialization
+
+### 🛠️ Deployment Guide
   [Deployment Guide](Deployment-Guide.md)
+
+## 📝 License
+MIT License. See [LICENSE](LICENSE) for details.
