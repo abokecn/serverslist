@@ -26,3 +26,5 @@ A modern web application for managing server assets with multi-language support,
 - Japanese
 - More languages ​​are being updated (or [contribute a new language](README.md) )
 
+### Deployment Guide
+  [Deployment Guide](Deployment-Guide.md)
