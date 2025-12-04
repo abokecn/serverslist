@@ -24,3 +24,5 @@
 - 日本語
 - 更多语言更新中（或[贡献新语言](README_CN.md)）
 
+### 部署指南
+[部署指南](Deployment-Guide.md)
