@@ -15,12 +15,14 @@ A modern web application for managing server assets with multi-language support,
 
 
 ### 📊 Data Visualization
-- Detailed server specs (IP, memory, bandwidth, price, expiration).
-- Quick links to provider consoles.
-- SSH connection shortcuts.
-- Cost summary cards (annual/monthly).
+- Detailed server information display (IP, configuration, bandwidth, price, etc.)
+- Service provider icon for quick redirection to the official website
+- Summary of fees and statistics
 
 
-### 🌍 Internationalization
-Supports three languages to cater to global users. For Chinese documentation, see the link below. 
+### 🌍 Multilingual Support
+- Chinese (Simplified)
+- English
+- Japanese
+- More languages ​​are being updated (or [contribute a new language](README.md))
 
