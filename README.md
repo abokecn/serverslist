@@ -2,6 +2,7 @@
 
 A modern web application for managing server assets with multi-language support, automatic cost calculation, and responsive design.
 
+[English (Current)](README.md)  [简体中文](README_CN.md) 
 
 ## ✨ Features
 
@@ -21,10 +22,5 @@ A modern web application for managing server assets with multi-language support,
 
 
 ### 🌍 Internationalization
-Supports three languages to cater to global users. For Chinese documentation, see the link below.
-
-
-## 📚 Documentation
-- [English (Current)](README.md)  
-- [简体中文](README_CN.md)  
+Supports three languages to cater to global users. For Chinese documentation, see the link below. 
 
