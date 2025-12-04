@@ -1,4 +1,4 @@
-# ServersList - Server Asset Management System
+# ![favicon](https://img.jingsublog.com/i/2025/12/04/z60l5b.svg) ServersList - Server Asset Management System
 
 A modern web application for managing server assets with multi-language support, automatic cost calculation, and responsive design.
 
