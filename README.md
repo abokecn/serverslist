@@ -29,12 +29,19 @@ A modern web application for managing server assets with multi-language support,
 
 ## 💻 File Structure
 ServersList/
+
 ├── index.html              # Main entry point
+
 ├── style.css               # Global styles
+
 ├── providers.js            # Cloud provider configs (icons/links)
+
 ├── servers.js              # Server data & status definitions
+
 ├── i18n.js                 # Multi-language setup
+
 ├── calculation.js          # Cost calculation logic
+
 └── main.js                 # Core rendering & initialization
 
 ### 🛠️ Deployment Guide
