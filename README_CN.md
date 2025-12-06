@@ -1,4 +1,5 @@
-![ServersList（透明）](https://img.jingsublog.com/i/2025/12/06/lrrypf.png)
+![ServersList](https://img.jingsublog.com/i/2025/12/06/ov0zuw.png)
+
 # ServersList - 服务器资产管理系统
 
 一个现代化的服务器资产管理网页应用，支持多语言、自动费用计算和响应式设计。
