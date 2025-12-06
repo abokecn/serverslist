@@ -1,4 +1,5 @@
-![ServersList（透明）](https://img.jingsublog.com/i/2025/12/06/lrrypf.png)
+![ServersList](https://img.jingsublog.com/i/2025/12/06/ov0zuw.png)
+
 # ServersList - Server Asset Management System
 
 A modern web application for managing server assets with multi-language support, automatic cost calculation, and responsive design.
