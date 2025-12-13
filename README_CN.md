@@ -16,7 +16,7 @@
 - **状态管理** - 清晰标识服务器状态（正常/已售）
 
 ### 📊 数据展示
-- 服务器详细信息展示（IP、配置、带宽、价格等）
+- 服务器详细信息展示（配置、带宽、价格等）
 - 服务商图标快速跳转官网
 - 费用汇总统计
 
@@ -26,23 +26,24 @@
 - 日本語
 - 更多语言更新中（或[贡献新语言](README_CN.md)）
 
+### 🌐 预览网页
+[预览网页](https://sl.jingsublog.com/)
+
 ## 💻 文件结构
-
+```
 ServersList/
-
-├── index.html # 主入口点
-
-├── style.css # 全局样式
-
-├── providers.js # 云提供商配置（图标/链接）
-
-├── servers.js # 服务器数据和状态定义
-
-├── i18n.js # 多语言设置
-
-├── calculation.js # 费用计算逻辑
-
-└── main.js # 核心渲染和初始化
+├─index.html                # 主入口点
+├─svg
+|  └─favicon.svg            # 网站图标
+├─js
+| ├─calculation.js          # 费用计算逻辑
+| ├─i18n.js                 # 多语言设置
+| ├─main.js                 # 核心渲染和初始化
+| ├─providers.js            # 云提供商配置（图标/链接）
+| └─servers.js              # 服务器数据和状态定义
+└─css
+  └─style.css               # 全局样式
+```
 
 ### 🛠️ 部署指南
 
