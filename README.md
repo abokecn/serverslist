@@ -45,8 +45,6 @@ ServersList/
 | └─servers.js              # Server data & status definitions
 └─css
   └─style.css               # Global styles
-
-
 ```
 
 ### 🛠️ Deployment Guide
