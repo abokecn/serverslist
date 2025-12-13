@@ -17,7 +17,7 @@ A modern web application for managing server assets with multi-language support,
 
 
 ### 📊 Data Visualization
-- Detailed server information display (IP, configuration, bandwidth, price, etc.)
+- Detailed server information display (configuration, bandwidth, price, etc.)
 - Service provider icon for quick redirection to the official website
 - Summary of fees and statistics
 
