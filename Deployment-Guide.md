@@ -1,4 +1,4 @@
-## 📝 Deployment and Use
+## 📝 Deployment & Use
 
 1. Clone the repository
 
@@ -13,7 +13,7 @@ git clone https://github.com/abokecn/serverslist.git
 3. Deploy to your website
 
 
-## 📝部署使用
+## 📝部署 & 使用
 
 1. 克隆仓库
 
@@ -28,7 +28,7 @@ git clone https://github.com/abokecn/serverslist.git
 3. 部署到您的网站
 
 
-## 📝デプロイと使用方法
+## 📝デプロイと & 使用方法
 
 1. リポジトリのクローン作成
 
