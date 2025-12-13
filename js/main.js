@@ -50,13 +50,6 @@ function createServerCard(server) {
         { label: "vendor", value: server.vendor, isLink: false },
         { label: "type", value: server.type, isLink: false },
         { label: "memory", value: server.memory, isLink: false },
-        { 
-            label: "ip", 
-            value: server.ip, 
-            isLink: true,
-            link: `ssh://${server.sshUser}@${server.ip}`,
-            title: `${i18n.t('ssh_connect')}: ${server.ip}`
-        },
         { label: "bandwidth", value: server.bandwidth, isLink: false },
         { label: "price", value: server.price, isLink: false },
         { label: "expire_time", value: server.expire, isLink: false },
@@ -98,15 +91,8 @@ function createServerCard(server) {
     const statusText = document.createElement("span");
     const statusTranslation = i18n.t(`status_${server.status}`);
     statusText.textContent = `${i18n.t('status')}：${statusTranslation}`;
-    
-    const manageLink = document.createElement("a");
-    manageLink.className = "manage-link";
-    manageLink.href = provider.consoleUrl;
-    manageLink.target = "_blank";
-    manageLink.textContent = i18n.t('manage_console');
-    manageLink.title = i18n.t('manage_console');
-    
-    footer.append(statusText, manageLink);
+
+    footer.append(statusText);
     card.append(footer);
 
     return card;
