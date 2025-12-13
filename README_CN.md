@@ -50,4 +50,4 @@ ServersList/
 
 ## 📝 许可证
 
-MIT 许可证。详情请参阅[LICENSE](LICENSE)。
+GPL-3.0 许可证。详情请参阅[LICENSE](LICENSE)。
