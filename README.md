@@ -26,7 +26,7 @@ A modern web application for managing server assets with multi-language support,
 - Chinese (Simplified)
 - English
 - Japanese
-- More languages ​​are being updated (or [contribute a new language](README.md) )
+- More languages ​​are being updated (or [contribute a new language](new_language.md) )
 
 ### 🌐 Preview webpage
 [Preview webpage](https://sl.jingsublog.com/)
