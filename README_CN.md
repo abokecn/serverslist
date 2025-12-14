@@ -24,7 +24,7 @@
 - 中文 (简体)
 - English 
 - 日本語
-- 更多语言更新中（或[贡献新语言](README_CN.md)）
+- 更多语言更新中（或[贡献新语言](new_language.md)）
 
 ### 🌐 预览网页
 [预览网页](https://sl.jingsublog.com/)
